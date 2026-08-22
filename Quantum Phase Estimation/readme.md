@@ -6,6 +6,6 @@ The contents involve the following files
 * `utils.py` - contains helper plotting function used in the notebook.
 
 **Comments on LLM use**
-
+\\
 Large Language Models (ChatGPT) were used in the development of these files. They were **not** used in the main derivations, designing the main structure of these files or discussions of the main ideas. 
 LLMs were used to refine writing, capture errors and inconsistencies in the content of these files. 
